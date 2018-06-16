@@ -1,3 +1,49 @@
 body{
     background: url(../img/bcgnd.jpg);
 }
+
+#header_row, #content_row{
+    margin-top: 5%;
+    background-color: rgba(255, 255, 255, 0.7);
+    border: #b5b5b5 solid;
+    border-radius:5px;
+    text-align: center;
+}
+
+#content_row{
+    padding: 5%;
+}
+
+.content_item{
+    padding: 2%;
+}
+#logo{
+    width:40%;
+    height: auto;
+}
+
+.head_item_wrap{
+    margin: 1% auto;
+}
+
+.col-content{
+    margin: auto 0;
+}
+
+h1{
+    font-size: 300%;
+}
+
+.content_row{
+    margin: 3%;
+}
+
+#start_quiz{
+    
+    height: 150%;
+    font-size: 1.5rem;
+}
+#social-wrap{
+    text-align: center;
+    margin-top: 2%;
+}
